@@ -1,5 +1,5 @@
 #include<iostream>
-#include<windows.h>?
+#include<windows.h>
 #include<string>
 
 using namespace std;
@@ -18,11 +18,11 @@ int main()
 	
 	Birthday();
 
-	cout << "Emmmmm...Actually, it's a ³¬¼òÂª°æ±¾µöÓã³ÌÐò£¡" << endl << endl;
+	cout << "Emmmmm...Actually, it's a è¶…ç®€é™‹ç‰ˆæœ¬é’“é±¼ç¨‹åºï¼" << endl << endl;
 	
 	cout << "HAPPY " << age << "'s BIRTHDAY TO " << name << endl;
 	cout << "ALL BEST WISHES" << endl;
-	cout << "Êý×Ö¸ç¸çÉúÈÕ¿ìÀÖÀ²~~" << endl;
+	cout << "æ•°å­—å“¥å“¥ç”Ÿæ—¥å¿«ä¹å•¦~~" << endl;
 
 	while (true)
 	{
